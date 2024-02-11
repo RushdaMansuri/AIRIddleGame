@@ -42,7 +42,7 @@ Follow these instructions to get a copy of AIRIddleGame up and running on your l
 
 Ensure you include the necessary libraries in your classpath when compiling and running the application.
 
-### Running the Application
+## Running the Application
 To start the game, run the compiled Java class from the command line.
 
     ```sh
@@ -50,7 +50,7 @@ To start the game, run the compiled Java class from the command line.
 
 Replace PATH_TO_JSON_LIBRARY with the path to the JSON processing library you are using (e.g., json-20210307.jar).
 
-### Usage
+## Usage
 After starting the application, follow the on-screen prompts to interact with the game:
 
 - Read the riddle presented.
@@ -58,7 +58,7 @@ After starting the application, follow the on-screen prompts to interact with th
 - Request a hint if you're stuck.
 - Continue playing with new riddles or exit the game as desired.
 
-### Contributing
+## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
@@ -67,11 +67,8 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
-### License
-Distributed under the MIT License. See LICENSE for more information.
-
-### Contact
-Rushda Mansuri - (https://www.linkedin.com/in/rushda-mansuri-a14a3984/)
+## Contact
+Rushda Mansuri - https://www.linkedin.com/in/rushda-mansuri-a14a3984/
 
 Project Link: https://github.com/RushdaMansuri/AIRIddleGame
 

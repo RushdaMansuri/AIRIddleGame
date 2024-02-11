@@ -44,9 +44,8 @@ Ensure you include the necessary libraries in your classpath when compiling and 
 
 ## Running the Application
 To start the game, run the compiled Java class from the command line.
-
-    ```sh
-    java -cp bin:PATH_TO_JSON_LIBRARY RiddleGame
+```sh
+java -cp bin:PATH_TO_JSON_LIBRARY RiddleGame
 
 Replace PATH_TO_JSON_LIBRARY with the path to the JSON processing library you are using (e.g., json-20210307.jar).
 

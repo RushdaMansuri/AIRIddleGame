@@ -40,7 +40,7 @@ Follow these instructions to get a copy of AIRIddleGame up and running on your l
     cd AIRIddleGame
     javac -d bin src/*.java
 
-    Ensure you include the necessary libraries in your classpath when compiling and running the application.
+Ensure you include the necessary libraries in your classpath when compiling and running the application.
 
 ### Running the Application
 To start the game, run the compiled Java class from the command line.
@@ -48,15 +48,15 @@ To start the game, run the compiled Java class from the command line.
     ```sh
     java -cp bin:PATH_TO_JSON_LIBRARY RiddleGame
 
-    Replace PATH_TO_JSON_LIBRARY with the path to the JSON processing library you are using (e.g., json-20210307.jar).
+Replace PATH_TO_JSON_LIBRARY with the path to the JSON processing library you are using (e.g., json-20210307.jar).
 
 ### Usage
 After starting the application, follow the on-screen prompts to interact with the game:
 
-Read the riddle presented.
-Type your guess and press Enter.
-Request a hint if you're stuck.
-Continue playing with new riddles or exit the game as desired.
+- Read the riddle presented.
+- Type your guess and press Enter.
+- Request a hint if you're stuck.
+- Continue playing with new riddles or exit the game as desired.
 
 ### Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.

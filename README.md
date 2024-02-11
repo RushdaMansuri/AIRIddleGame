@@ -1,4 +1,4 @@
-# AIRIddleGame
+# AI RIddle Game using ChatGPT
 
 AIRIddleGame is an interactive Java console application that leverages the OpenAI API to generate riddles for the user to solve. It showcases the integration of advanced AI models into Java applications, providing a fun and engaging way to interact with AI-generated content.
 
